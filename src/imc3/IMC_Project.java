@@ -7,7 +7,7 @@ package imc3;
 
 /**
  *
- * @author Kaique Pantosi D'amato
+ * @author Kaique Pantosi D'amato - 41326040
  */
 import imc3.Ex2;
 import javax.swing.JFrame;
