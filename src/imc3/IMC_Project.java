@@ -1,13 +1,13 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * and open the template in the editor. 
  */
 package imc3;
 
 /**
  *
- * @author 41321863
+ * @author Kaique Pantosi D'amato
  */
 import imc3.Ex2;
 import javax.swing.JFrame;
